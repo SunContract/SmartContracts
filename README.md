@@ -3,11 +3,11 @@
 </p>
 
 ## SunContract Smart Contract
-This repository contains the smart contract for the upcoming SunContract Token Sale. Variables such as blocksInWeek, startBlock and multisigAddress will be set and adjusted shortly before the sale.
+This repository contains the smart contract files for the upcoming SunContract Token Sale. Variables such as blocksInWeek, startBlock and multisigAddress will be set and adjusted shortly before the sale start, which is set to begin on 28th of June at approximately 3pm UTC.
 
 ### Rules:
 
-#### Bonus timeline:
+#### Bonus Timeline:
 * week 1 registered addresses; 11,600 SNCs for 1 ETH
 * week 1 regular price; 11.500 SNCs for 1 ETH
 * week 2; 11.000 SNCs for 1 ETH
