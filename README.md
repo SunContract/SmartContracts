@@ -19,4 +19,4 @@ This repository contains the smart contract files for the upcoming SunContract T
 * Max cap is 100,000.00 ETH
 
 #### Token Distribution:
-* 20% of the tokens will be minted on top for the team & bounties
+* 25% of the tokens will be minted on top for the team & bounties
