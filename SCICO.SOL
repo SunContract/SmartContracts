@@ -197,7 +197,7 @@ contract SunContractIco is owned{
 	function withdrawRemainingBalanceForManualRecovery() onlyOwner{ 		
 		if (this.balance == 0) throw;											                    // Check if there is balance on the contract 		
 		if (block.number < endBlock) throw;	                                  // Check if ICO failed		
-		if (participantIndex[lastEthReturnIndex] != 0x0) throw;					      // Check if all the participants have been reinbursed 		
+		if (participantIndex[lastEthReturnIndex] != 0x0) throw;					      // Check if all the participants have been reimbursed 		
 		if(multisigAddress.send(this.balance)){}								              // Send remainder so it can be manually processed 	
 	} 	
 
