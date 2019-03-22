@@ -20,3 +20,6 @@ This repository contains the smart contract files for the upcoming SunContract T
 
 #### Token Distribution:
 * 25% of tokens sold will be minted on top for the team & bounties, the final ratio will therefore be 80/20.
+
+#### Deployed Contrat on public Ethereum network
+* https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404
